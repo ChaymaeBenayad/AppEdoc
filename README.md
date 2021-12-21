@@ -10,6 +10,8 @@ Le système de cette application offre deux types des utilisateurs, un internaut
 
 L’administrateur doit saisir son « email » et son « Mot de passe », le système vérifie si les deux champs de texte sont vides ou seulement l’un des deux, et si les informations saisies sont correctes.
 
+<h2>Page d'accueil :</h2>
+
 <h2>Ajouter un document :</h2>
 
 L’administrateur doit remplir tous les champs demandés (choisir un document, choisir le département de ce document et son type)
