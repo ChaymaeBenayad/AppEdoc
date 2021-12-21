@@ -18,7 +18,7 @@ Le système vérifie si toutes les informations sont bien remplies afin d’ajou
 
 <h2>Affichage des documents :</h2>
 
-Cette page affiche tous les documents existant dans la base de données et contient plusieurs fonctionnalités à savoir : recherche, modification, suppression et archivage d'un document.
+Cette page affiche tous les documents existant dans la base de données et contient plusieurs fonctionnalités à savoir : la recherche, la modification, la suppression et l'archivage d'un document.
 
 <h2>Rechercher un document :</h2>
 
