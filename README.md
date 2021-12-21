@@ -54,30 +54,42 @@ En cliquant sur l’icône de suppression du document archivé qu’on veut supp
 
 Cette page affiche tous les employés de l’entreprise.
 
-<h2>Rechercher un employé: :</h2>
+<h2>Rechercher un employé :</h2>
 
 L’administrateur peut faire une simple recherche par filtrage d’un employé quelconque, il suffit de taper les premières lettres du nom de l’employé et tous les employés qui ont un nom qui commence par ces lettres s’affichent.
 
-<h2>Affichage des notifications:</h2>
+<h2>Affichage des notifications :</h2>
 
 En cliquant sur l’icône de la cloche, toutes les notifications reçues après l’ajout d’un document par un employé s’affichent.
 
 
+<h1>Utilisateur :</h1>
+
+<h2>Authentification :</h2>
+
+L’utilisateur doit saisir son email et son mot de passe. Si les informations saisies sont correctes, il sera redirigé vers la page d’ accueil. Sinon, on lui affiche un message
+d’erreur.
+
+<h2>Page d'accueil :</h2>
+
+<h3>Entête de la page :</h3>
+
+<h3>Section des services :</h3>
+
+<h2>Ajouter un document :</h2>
+
+L’utilisateur peut insérer un nouveau document en choisissant le document, son type et son département. Une fois le document est bien ajouté, une alerte pour confirmer le bon ajout s’affichera.
+
+<h2>Signer un document :</h2>
+
+L’utilisateur peut créer sa propre signature et la sauvegarder dans son bureau pour qu’il puisse l’insérer dans un document. Ce service facilite la tâche pour les employés de l’entreprise et réduit le temps d’imprimer les documents et les scannés.
+
+<h2>Envoyer un document :</h2>
+
+Chaque employé peut partager les documents avec ses collègues via e-mail, il a besoin juste de choisir le document et saisir les champs (l’email du récepteur, le sujet , le message ) pour réaliser cette tâche dans des secondes.
+
+<h2>Rechercher un document :</h2>
+
+L’utilisateur peut chercher le document souhaité par filtrage, il suffit de taper les premières lettres du nom du document et tous les documents qui commencent par ces lettres s’affichent. Après son affichage, l’employé peut le consulter sans le télécharger, il peut aussi le télécharger directement sans le consulter.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
