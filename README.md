@@ -50,7 +50,7 @@ L’administrateur peut faire une simple recherche par filtrage d’un document 
 
 En cliquant sur l’icône de suppression du document archivé qu’on veut supprimer, le message « Le document est bien supprimé !!!» sera affiché.
 
-<h2Affichage des employés :</h2>
+<h2>Affichage des employés :</h2>
 
 Cette page affiche tous les employés de l’entreprise.
 
