@@ -28,7 +28,7 @@ Le système vérifie si toutes les informations sont bien remplies afin d’ajou
 
 <h2>Affichage des documents :</h2>
 
-Cette page affiche tous les documents existant dans la base de données et contient plusieurs fonctionnalités à savoir : la recherche, la modification, la suppression et l'archivage d'un document.
+Cette page affiche tous les documents existants dans la base de données et contient plusieurs fonctionnalités à savoir : la recherche, la modification, la suppression et l'archivage d'un document.
 
 ![Capture5](https://user-images.githubusercontent.com/78702422/147030685-970b9860-b26d-466f-87df-df5a576a2250.PNG)
 
@@ -50,19 +50,19 @@ Si toutes les informations sont bien saisies un message qui montre que le docume
 
 <h2>Supprimer un document :</h2>
 
-En cliquant sur l’icône de suppression du document qu’on veut supprimer, le message « Le document est bien supprimé !!!» sera affiché.
+En cliquant sur l’icône de suppression du document qu’on veut supprimer, le message « Le document est bien supprimé !!» sera affiché.
 
 ![Capture10](https://user-images.githubusercontent.com/78702422/147030896-8e13eb99-49bd-4621-a420-c7fd3390134c.PNG)
 
 <h2>Archiver un document :</h2>
 
-En cliquant sur l’icône d’archivage du document qu’on veut archiver, le document choisi sera supprimé de la table des documents et sera ajouté à la table des documents archivés en affichant un message « Le document est bien archivé !!!», sinon un message d’erreur s’affichera.
+En cliquant sur l’icône d’archivage du document qu’on veut archiver, le document choisi sera supprimé de la table des documents et sera ajouté à la table des documents archivés en affichant un message « Le document est bien archivé !!», sinon un message d’erreur s’affichera.
 
 ![Capture11](https://user-images.githubusercontent.com/78702422/147030909-18dc70df-c73e-4a66-a8a6-fbc8f67e6d60.PNG)
 
 <h2>Affichage des documents archivés :</h2>
 
-Cette page affiche tous les documents archivés existant dans la base de données.
+Cette page affiche tous les documents archivés existants dans la base de données.
 
 ![Capture12](https://user-images.githubusercontent.com/78702422/147030936-886bb6b0-ec69-444f-8691-6e670a98c081.PNG)
 
@@ -134,7 +134,7 @@ Cette page affiche tous les documents ajoutés par l'employé. Il peut soit les 
 
 <h2>Rechercher un document :</h2>
 
-L’utilisateur peut chercher le document souhaité par filtrage, il suffit de taper les premières lettres du nom du document et tous les documents qui commencent par ces lettres s’affichent. Après son affichage, l’employé peut le consulter sans le télécharger, il peut aussi le télécharger directement sans le consulter.
+L’utilisateur peut chercher le document souhaité par filtrage, il suffit de taper les premières lettres du nom du document et tous les documents qui commencent par ces lettres s’affichent.
 
 ![Capture23](https://user-images.githubusercontent.com/78702422/147031474-7c8cec9a-c173-4fe7-84df-e19bff7e1015.PNG)
 
